@@ -14,3 +14,7 @@ __pycache__
 saved
 ./saved
 **/saved
+
+spark-warehouse
+./spark-warehouse
+**/spark-warehouse
